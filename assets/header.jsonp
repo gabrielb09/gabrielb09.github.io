@@ -1,0 +1,44 @@
+local_header( {
+  "autoplayTransitionDelay" : 5,
+  "author" : "",
+  "timestamp" : "2018-15-24 14:4:0",
+  "loopSlideshow" : 0,
+  "filename" : "Proyecto Final Presentacion",
+  "autoplayBuildDelay" : 2,
+  "comment" : "",
+  "title" : "Proyecto Final Presentacion",
+  "showMode" : 0,
+  "creator" : "Apple Keynote 8.0",
+  "slideList" : [
+    "0DD30E62-9C92-4224-A2AB-929B7B956E70",
+    "1CC14F02-F417-474D-B092-8C95C1CA99B2",
+    "D15C6618-CB11-444E-B4A4-149BD75607B1",
+    "A62BB79E-E9EC-418D-B0B9-066125C7A479",
+    "4ED75F56-0DDA-4335-861C-D87D70310124",
+    "35DDA23A-16BF-4716-BAE9-4CF43BF34294",
+    "76AB9C5E-B5D2-427D-A9B4-C523BC275A3C",
+    "C631BC45-22BF-41E9-8EF0-0E9EAA912323"
+  ],
+  "soundtrack" : {
+    "mode" : 0,
+    "volume" : 1
+  },
+  "slideWidth" : 1024,
+  "slideHeight" : 768,
+  "slideCount" : 8,
+  "majorVersion" : 1,
+  "minorVersion" : 2,
+  "fonts" : [
+    "IowanOldStyle-Italic",
+    "AmericanTypewriter",
+    "HelveticaNeue",
+    "IowanOldStyle-Roman",
+    "Baskerville",
+    "IowanOldStyle-Bold",
+    "Helvetica",
+    "IowanOldStyle-BoldItalic",
+    "DINCondensed-Bold",
+    "DINAlternate-Bold",
+    "Palatino-Roman"
+  ]
+} )
